@@ -1,5 +1,6 @@
 # BKING-1 
-#paid tools kay copy send to admain
+
+# paid tools kay copy send to admin whatsapp
 
 
 git clone https://github.com/BKING44/BKING-1.git
